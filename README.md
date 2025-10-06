@@ -76,6 +76,7 @@ nor g4(y4,a,b);
 xor g5(y5,a,b);
 not g6(y6,a);
 endmodule
+ 
  Developed by: RegisterNumber:25011865 
  
 **Logic symbol & Truthtable**<img width="756" height="453" alt="{7CEE04AD-1A5C-4B5B-A7B8-8A24C057B3A9}" src="https://github.com/user-attachments/assets/4881d1b9-d45b-49b1-bb0e-eef8b26cb4a6" />
