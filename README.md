@@ -95,7 +95,8 @@ endmodule
 **RTL realization Output:**<img width="773" height="604" alt="{F7AB76A3-4250-4128-A897-8960654FA1E4}" src="https://github.com/user-attachments/assets/c481112d-46f9-41d2-8a46-8d14cbf3d251" />
  
 
-**RTL**<img width="820" height="371" alt="{81334BF4-E905-4193-9889-230407E8BEDC}" src="https://github.com/user-attachments/assets/73c7788f-53fa-440f-a97b-7c967b5b9cc0" />
+**RTL**
+<img width="1212" height="503" alt="{09724C31-4879-412D-ADF4-ACDCD2552236}" src="https://github.com/user-attachments/assets/58e19513-5f11-462b-9249-f3e705f6e98d" />
 
 
 **Result:** thus the truth table of logic gates in quartus II using verilog programming is studied and verified
